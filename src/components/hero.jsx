@@ -1,6 +1,6 @@
 const Hero = () => {
     return (
-        <div className="flex justify-between items-center ">
+        <div className="flex justify-center items-center gap-[20px]">
             {/* left text side */}
             <div className="textSide flex flex-col gap-[10px] max-w-[600px]">
                 
@@ -30,7 +30,7 @@ const Hero = () => {
                 </div>
             </div>
             {/* right image side */}
-            <div className="imageSide relative flex items-center justify-center p-8">
+            <div className="imageSide relative flex items-center justify-center p-8 left-[50px]">
                 <div className="absolute inset-0 rounded-full bg-purple-400/30 blur-2xl" />
                 <img className="relative w-full z-10" src="/src/assets/iPhone 15 Pro.png" alt="Hero Image" />
             </div>

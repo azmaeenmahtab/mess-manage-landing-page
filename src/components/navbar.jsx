@@ -10,11 +10,11 @@ const Navbar = () => {
         </div>
         {/* middle buttons */}
         <div className="navMiddleBtns">
-             <a href="">Home</a>
-             <a href="">About</a>
-             <a href="">Features</a>
-             <a href="">Contact</a>
-             <a href="">Your Plan</a>
+             <a className="text-black" href="">Home</a>
+             <a className="text-black" href="">About</a>
+             <a className="text-black" href="">Features</a>
+             <a className="text-black" href="">Contact</a>
+             <a className="text-black" href="">Your Plan</a>
         </div>
         {/* login signup btns */}
         <div className="navLoginSignupBtns">
