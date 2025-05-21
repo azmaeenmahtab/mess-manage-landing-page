@@ -21,7 +21,7 @@ const FoodService = () => {
 
             {/* description */}
             <div className="text-start font-semibold text-gray-600 pb-[20px]">আমাদের অ্যাপে শুধু বাজার খরচ, মিলের হিসাব ও মেম্বারদের জমা/তোলার তথ্য ইনপুট করুন—বাকি হিসাব-নিকাশ অটোমেটিকভাবে হয়ে যাবে সবচেয়ে বড় সুবিধা? আপনার ডাটা সম্পূর্ণ সুরক্ষিত, কখনই হারাবে না যেকোনো ডিভাইসে লগ ইন করে অনায়াসে মেস ম্যানেজ করুন, রিয়েল-টাইমে চেক করুন পুরো মেসের আপডেটেড আর্থিক অবস্থা সহজ, স্মার্ট এবং নির্ভরযোগ্য—মেস ম্যানেজমেন্ট এখন আপনার হাতের মুঠোয়!"</div>
-            <div  className="text-start font-semibold text-gray-600 pb-[20px]">খাতা-কলম, ক্যালকুলেটরের ঝামেলা থেকে মুক্তি পেতে এখনই ডাউনলোড করুন</div>
+            <div  className="text-start font-semibold text-gray-600 pb-[20px]">খাতা-কলম, ক্যালকুলেটরের ঝামেলা থেকে মুক্তি পেতে এখনই ডাউনলোড করুন!</div>
             {/* download app section */}
             <div className="flex flex-start">
                  <button className="blueBtn">Download Now</button>
