@@ -1,0 +1,47 @@
+ body {
+     font-family: "Inter", sans-serif;
+ }
+
+ .navbar {
+     display: flex;
+     max-width: 1440px;
+     justify-content: space-evenly;
+     align-items: center;
+     gap: 260px;
+ }
+
+ .appName {
+     display: flex;
+     gap: 10px;
+     margin-bottom: 0px;
+     font-size: 25px;
+ }
+
+ .navMiddleBtns {
+     display: flex;
+     gap: 20px;
+     align-items: center;
+     justify-content: center;
+     border: 1px solid #9BB7F6;
+     border-radius: 30px;
+     padding: 12px 18px;
+ }
+
+ .navLoginSignupBtns {
+     display: flex;
+     gap: 20px;
+ }
+
+ .navLoginSignupBtns button {
+     border: 1px solid #9BB7F6;
+     border-radius: 30px;
+     padding: 12px 24px;
+     font-weight: 600;
+ }
+
+ .blueBtn {
+     background-color: #1D64FF;
+     color: white;
+ }
+
+ /* tailwind from here */
